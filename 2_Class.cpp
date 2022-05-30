@@ -62,7 +62,7 @@ int main()
 	n_i Ng_Id;
 	Ng_Id.print();
 	n_i Ng_Id2;
-	Ng_Id2.setId(565).setngroup("Привет1").print();
+	Ng_Id2.setId(565).setngroup("Привет++++++").print();
 }
 
 
